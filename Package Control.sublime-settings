@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Compare Side-By-Side",
+		"Ethereum",
+		"EthereumSoliditySnippets",
+		"Expand Tabs on Save",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"iOpener",
+		"Nodejs",
+		"Package Control",
+		"ProjectManager",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}

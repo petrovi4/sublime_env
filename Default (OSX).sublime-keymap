@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+alt+t"], "command": "open_terminal" },
+	{ "keys": ["super+t"], "command": "open_terminal_project_folder" },
+	{ "keys": ["super+shift+t"], "command": "open_recent_file", "args": {"index" : 0} }
+]

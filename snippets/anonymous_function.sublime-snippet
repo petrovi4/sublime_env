@@ -1,0 +1,9 @@
+<snippet>
+		<content><![CDATA[(${1:arguments}) => {
+	${0:// body...}
+}
+]]></content>
+		<tabTrigger>afn</tabTrigger>
+		<scope>source.js</scope>
+		<description>Anoynmous Function pt4</description>
+</snippet>

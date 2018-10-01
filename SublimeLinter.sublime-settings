@@ -1,0 +1,21 @@
+// SublimeLinter Settings - User
+{
+	"paths":
+	{
+		"osx": ["~/.nvm/versions/node/v8.11.4/bin"]
+	},
+	"lint_mode": "background",
+	"linters":
+	{
+		"eslint":
+		{
+			"@disable": false,
+			"args": [],
+			"excludes": [],
+			"env":
+			{
+				"PATH": "~/.nvm/versions/node/v8.11.4/bin"
+			}
+		}
+	}
+}
