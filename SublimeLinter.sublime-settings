@@ -2,7 +2,10 @@
 {
 	"paths":
 	{
-		"osx": ["~/.nvm/versions/node/v8.11.4/bin"]
+		// NVM_SYMLINK_CURRENT=true
+		// to .bashrc / .zshrc before line which loads nvm make nvm creating the symlink
+		// From here https://github.com/creationix/nvm/issues/355#issuecomment-286673932
+		"osx": ["~/.nvm/current/bin"]
 	},
 	"lint_mode": "background",
 	"linters":
@@ -14,7 +17,7 @@
 			"excludes": [],
 			"env":
 			{
-				"PATH": "~/.nvm/versions/node/v8.11.4/bin"
+				"PATH": "~/.nvm/current/bin"
 			}
 		}
 	}

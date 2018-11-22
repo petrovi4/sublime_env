@@ -20,6 +20,7 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"Terminal",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"WakaTime"
 	]
 }

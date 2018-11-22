@@ -1,0 +1,20 @@
+{
+	"all": {
+
+		// Indent with tabs, overrides `indent_size` and `indent_char`
+		"indent_with_tabs": true
+	},
+
+	"js": {
+
+		// If true, then jslint-stricter mode is enforced
+		"jslint_happy": true
+
+	},
+
+	"json": {
+
+		// [collapse|collapse-preserve-inline|expand|end-expand|none] Put braces on the same line as control statements (default), or put braces on own line (Allman / ANSI style), or put end braces on own line, or attempt to keep them where they are
+		"brace_style": "collapse-preserve-inline"
+	}
+}
